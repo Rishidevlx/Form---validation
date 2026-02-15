@@ -1,7 +1,15 @@
-# 🚀 Account Creation Form Validation
+<!-- ======================= HEADER ======================= -->
+
+<h1 align="center">🚀 Account Creation Form Validation</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00AAFF&center=true&vCenter=true&width=700&lines=Secure+Form+Validation;Built+with+HTML+CSS+JavaScript;Regex+Powered+Input+Checking" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00AAFF&center=true&vCenter=true&width=800&lines=Secure+Form+Validation;HTML+CSS+JavaScript+Project;Regex+Powered+Input+Checking;Frontend+Developer+Project" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Rishidevlx/Form---validation?style=for-the-badge&color=00aaff"/>
+  <img src="https://img.shields.io/github/forks/Rishidevlx/Form---validation?style=for-the-badge&color=111111"/>
+  <img src="https://img.shields.io/github/license/Rishidevlx/Form---validation?style=for-the-badge&color=yellow"/>
 </p>
 
 <p align="center">
@@ -12,26 +20,39 @@
 
 ---
 
+## 🎬 Project Preview
+
+<p align="center">
+  <!-- 🔥 REPLACE THIS WITH YOUR OWN GIF OR SCREENSHOT -->
+  <img src="https://user-images.githubusercontent.com/00000000/placeholder.gif" width="800"/>
+</p>
+
+> 💡 Pro Tip: Screen record your project → convert to GIF → upload → replace image above.
+
+---
+
 ## 🎯 Project Overview
 
-✨ This project demonstrates a **secure Account Creation Form** with real-time validation using **HTML, CSS, and JavaScript Regular Expressions**.
+✨ This project showcases a **secure and responsive Account Creation Form** built using **HTML, CSS, and JavaScript** with powerful **Regular Expression validation**.
 
-### ✅ Goals
+💪 Focus Areas:
 
 - ✔️ Clean user input  
-- ✔️ Proper format checking  
+- ✔️ Proper format validation  
 - ✔️ Better user experience  
-- ✔️ Frontend validation security  
+- ✔️ Frontend security  
+- ✔️ Real-time feedback  
 
 ---
 
 ## 🧠 Key Features
 
 - 🚀 Real-time form validation  
-- 🔐 Regex-based input checking  
-- 🎨 Clean and responsive UI  
-- ⚡ Instant error feedback  
-- 📱 User-friendly experience  
+- 🔐 Regex-powered input checking  
+- ⚡ Instant error messages  
+- 🎨 Clean modern UI  
+- 📱 Fully responsive  
+- 🧩 Beginner-friendly structure  
 
 ---
 
@@ -41,10 +62,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-- **HTML5** — Structure  
-- **CSS3** — Styling & UI  
-- **JavaScript** — Validation Logic  
-- **Regular Expressions** — Pattern Matching  
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Structure |
+| CSS3 | Styling |
+| JavaScript | Validation Logic |
+| Regex | Pattern Matching |
 
 ---
 
@@ -54,53 +77,84 @@
 - ✅ Email format checking  
 - ✅ Strong password rules  
 - ✅ Confirm password match  
-- ✅ Required field handling  
+- ✅ Required field validation  
+- ✅ Real-time error handling  
 
 ---
 
-## 🎥 Live Demo
+## 🌐 Live Demo
 
-👉 **Try it here:**  
-🔗 _Add your live link here_
+<p align="center">
+  🔗 <b>Add your live demo link here</b>
+</p>
 
 ---
 
 ## 📂 Project Structure
 
+```
 Form---validation/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-
+```
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run Locally
 
-
+```bash
 # Clone the repository
 git clone https://github.com/Rishidevlx/Form---validation.git
 
-# Open index.html in your browser
+# Move into project folder
+cd Form---validation
 
-🌟 Future Improvements
+# Open index.html in browser
+```
 
-🔄 Backend integration
+---
 
-📧 Email verification
+## 📊 GitHub Stats
 
-🔐 Password strength meter
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishidevlx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishidevlx&theme=tokyonight&hide_border=true&border_radius=15" height="165"/>
+</p>
 
-🌙 Dark mode
+---
 
-👨‍💻 Author
+## 🌟 Future Improvements
 
-Rishi Aravindha
+- 🔄 Backend integration  
+- 📧 Email verification  
+- 🔐 Password strength meter  
+- 🌙 Dark mode  
+- 🧠 Advanced validation  
 
-💼 Frontend Developer | Web Developer
-🔗 GitHub: https://github.com/Rishidevlx
+---
 
-<p align="center"> ⭐ If you like this project, give it a star! </p>
+## 👨‍💻 Author
 
+<p align="center">
+  <b>Rishi Aravindha</b><br>
+  💼 Frontend Developer | Web Developer
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rishidevlx">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-00aaff?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like this project, don't forget to star the repo!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=120&section=footer"/>
+</p>
