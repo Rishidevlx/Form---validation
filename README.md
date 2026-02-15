@@ -67,3 +67,40 @@
 
 ## 📂 Project Structure
 
+Form---validation/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+
+---
+
+## 🚀 How to Run
+
+
+# Clone the repository
+git clone https://github.com/Rishidevlx/Form---validation.git
+
+# Open index.html in your browser
+
+🌟 Future Improvements
+
+🔄 Backend integration
+
+📧 Email verification
+
+🔐 Password strength meter
+
+🌙 Dark mode
+
+👨‍💻 Author
+
+Rishi Aravindha
+
+💼 Frontend Developer | Web Developer
+🔗 GitHub: https://github.com/Rishidevlx
+
+<p align="center"> ⭐ If you like this project, give it a star! </p>
+
